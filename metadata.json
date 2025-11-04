@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Get Fit - Casablanca",
+  "description": "A professional, modern, and responsive website for Get Fit, a gym located in Casablanca, Morocco. The site showcases the gym's services, coaches, and community, encouraging visitors to join.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
